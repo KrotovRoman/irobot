@@ -1,6 +1,8 @@
 # irobot
 Подробнее о скрипте тут: http://krotovroman.ru/irobot/
+
 Видеоинструкция по установке: https://www.youtube.com/watch?v=VqyDFG39GgM
+
 Видеоинструкция по решению возможных проблем при установке: https://www.youtube.com/watch?v=ITWizQf6sN4
 
 1. Устанавливаете на windows локальный сервер: http://open-server.ru/
