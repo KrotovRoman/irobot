@@ -19,7 +19,7 @@ foreach( $_REQUEST as $key=>$val )  $object->$key = $val; //получаем п�
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>I ROBOT - парсер ВКонтакте.</title>
+    <title>I ROBOT - парсер активной аудитории ВКонтакте.</title>
 	<!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="<?php echo 'http://'.$_SERVER['HTTP_HOST'];?>/css/bootstrap.min.css">
     
