@@ -25,7 +25,7 @@ foreach( $_REQUEST as $key=>$val )  $object->$key = $val; //получаем п�
     
     <!-- Optional theme -->
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-	<link href="<?php echo 'http://'.$_SERVER['HTTP_HOST'];?>js/jquery-ui.min.css" rel="stylesheet">
+	<link href="<?php echo 'http://'.$_SERVER['HTTP_HOST'];?>/js/jquery-ui.min.css" rel="stylesheet">
     
     <!-- Custom styles for this template -->
     <link href="<?php echo 'http://'.$_SERVER['HTTP_HOST'];?>/css/sticky-footer.css" rel="stylesheet">

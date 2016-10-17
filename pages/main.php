@@ -89,7 +89,7 @@ http://vk.com/delphicomponent-->
       <label class="col-sm-1 control-label"> </label>                        
       <div class='input-group col-md-8'> 
        <span class='input-group-btn'>
-       <button id='onlyingroup' class="btn btn-success">состоит минимум в</button>
+       <button id='onlyingroup' class="btn btn-success">состоит в</button>
        </span>
       <input 
       data-container='body' 
